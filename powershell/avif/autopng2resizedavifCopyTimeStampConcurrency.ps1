@@ -268,7 +268,7 @@ function size_sum {
 
 
 
-$input_container = 'jpg'
+$input_container = 'png'
 
 Get-ChildItem -Filter *.$input_container
 

@@ -73,7 +73,7 @@ echo $arguments
     (Get-Item "$dir\$na.(0.5x)qp$qp.avif").CreationTime=((Get-Item $file).CreationTime)
     (Get-Item "$dir\$na.(0.5x)qp$qp.avif").LastWriteTime=((Get-Item $file).LastWriteTime)
     (Get-Item "$dir\$na.(0.5x)qp$qp.avif").LastAccessTime=((Get-Item $file).LastAccessTime)
-    #Remove-Item "$dir\$na.png"
+    Remove-Item "$dir\$na.png"
 
     $count++
     echo -------------------------------------------------------------

@@ -268,7 +268,7 @@ function size_sum {
 
 
 
-$input_container = 'jpg'
+$input_container = 'webp'
 
 Get-ChildItem -Filter *.$input_container
 
