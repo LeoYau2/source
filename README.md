@@ -11,6 +11,7 @@ source/main/python/機器學習數學/back-propagation_network_quadrant.2.py
 source/main/python/專題
 
 影像處理:
+source/main/python/pytorch/bloom_pytorch.py
 source/main/python/color_space_6.py
 source/main/python/hdr_video_gain.py
 source/main/python/bloom_向量化計算.py
